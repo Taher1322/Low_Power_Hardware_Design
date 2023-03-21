@@ -1,0 +1,5 @@
+Record=TopLevelDocument|FileName=Microcontroller_IO.SchDoc|SheetNumber=5
+Record=NoMainPathDocument|SourceDocument=Microcontroller_IO.SchDoc|FileName=Microcontroller_Power_&_RF.SchDoc|SheetNumber=3
+Record=NoMainPathDocument|SourceDocument=Microcontroller_IO.SchDoc|FileName=Power_Management.SchDoc|SheetNumber=2
+Record=NoMainPathDocument|SourceDocument=Microcontroller_IO.SchDoc|FileName=Sensors.SchDoc|SheetNumber=4
+Record=NoMainPathDocument|SourceDocument=Microcontroller_IO.SchDoc|FileName=System_Block_Diagram.SchDoc|SheetNumber=1

@@ -1,0 +1,22 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: FitC_Layout.PcbDoc   10/30/2022  2:39:17 PM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : FitC_Layout-RoundHoles.TXT
+ASCII SlotHoles File : FitC_Layout-SlotHoles.TXT
+EIA File   : FitC_Layout.DRL
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      0.2mm (8mil)                                              Round             20        PTH        62.75mm (2.47inch)
+T2      0.305mm (12mil)                                           Round             1016      PTH        1643.96mm (64.72inch)
+T3      0.33mm (13mil)                                            Round             132       PTH        745.94mm (29.37inch)
+T4      0.5mm (20mil)                                             Slot              2         PTH        15.33mm (0.60inch)
+T5      0.55mm (22mil)                                            Slot              2         PTH        10.90mm (0.43inch)
+T6      1.02mm (40mil)                                            Round             3         PTH        5.08mm (0.20inch)
+T7      1.1mm (43mil)                                             Round             30        PTH        224.79mm (8.85inch)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              1205
+
+Total Processing Time (hh:mm:ss) : 00:00:00

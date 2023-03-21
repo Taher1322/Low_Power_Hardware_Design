@@ -1,0 +1,20 @@
+DRC Rules Export File for PCB: C:\Users\Public\Documents\Altium\Low Power PCB Designs\FitC_Project\FitC_Layout.PcbDoc
+RuleKind=Width|RuleName=PMUX_IN2|Scope=Board|Minimum=6.00
+RuleKind=Width|RuleName=PMUX_IN1|Scope=Board|Minimum=6.00
+RuleKind=Width|RuleName=GND|Scope=Board|Minimum=6.00
+RuleKind=Width|RuleName=L_BOOST|Scope=Board|Minimum=6.00
+RuleKind=Width|RuleName=VREGVDD|Scope=Board|Minimum=10.00
+RuleKind=Width|RuleName=RFVDD|Scope=Board|Minimum=10.00
+RuleKind=Width|RuleName=IOVDD|Scope=Board|Minimum=10.00
+RuleKind=Width|RuleName=VDCDC|Scope=Board|Minimum=6.00
+RuleKind=Width|RuleName=VSTOR|Scope=Board|Minimum=6.00
+RuleKind=Width|RuleName=VIN_EXT|Scope=Board|Minimum=6.00
+RuleKind=Width|RuleName=PMIC_VBAT|Scope=Board|Minimum=10.00
+RuleKind=Width|RuleName=PMIC_VOUT|Scope=Board|Minimum=10.00
+RuleKind=Width|RuleName=SOLAR_+5V|Scope=Board|Minimum=20.00
+RuleKind=Width|RuleName=VMCU_+3V|Scope=Board|Minimum=6.00
+RuleKind=Width|RuleName=Power_5V|Scope=Board|Minimum=10.00
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=4.00
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=6.00
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=6.00
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
